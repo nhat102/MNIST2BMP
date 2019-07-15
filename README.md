@@ -1,0 +1,2 @@
+# MNIST2BMP
+Make BMP from MNIST
